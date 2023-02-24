@@ -1,6 +1,11 @@
 # Nixphere apt mirror
 This is an APT mirror for Debian 9 - 12 (`stretch`, `buster`, `bullseye` and `bookwoorm`) which is located in Frankfurt am Main in germany
 
+## Processor architecture
+- `amd64` (64 Bit) Debian 9-12
+- `i368` (32 Bit) Debian 9-12
+- `arm64` (ARM 64 Bit) Debian 9-12
+- `armfh` (ARM 32 Bit) Debian 9-12
 ## URL
 | IPv | Protocol | URL |
 |--|--|--|
