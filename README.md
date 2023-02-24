@@ -24,4 +24,4 @@ Your sources.list should look like this after editing (some versions don't use d
 <img src="https://github.com/Nixphere/APt-Mirror/raw/main/Screenshot%202023-02-24%20014427.png">
 
 ## Note
-If you want to support me so that I can do something like this more, you are welcome to do so on https://www.buymeacoffee.com/DedBash. By the way, the whole project currently consumes 1.3TB of storage.
+If you want to support me so that I can do something like this more, you are welcome to donate on https://www.buymeacoffee.com/DedBash. By the way, the whole project currently consumes 1.3TB of storage.
