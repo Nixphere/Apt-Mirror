@@ -20,8 +20,8 @@ This is an APT mirror for Debian 9 - 12 (`stretch`, `buster`, `bullseye` and `bo
 | IPv6 | https | `https://deb.v6.nixphere.de/` |
 
 ## sources.list
-Your sources.list should look like this after editing (some versions don't use deb-src (then just disregard and edit the exestirenenden))<br>
+Your sources.list should look like this after editing (some versions don't use deb-src, then just ignore and edit the existing one)<br>
 <img src="https://github.com/Nixphere/APt-Mirror/raw/main/Screenshot%202023-02-24%20014427.png">
 
 ## Note
-Currently the whole mirror draws 1.3TB of storage so I would like you to donate something to https://www.buymeacoffee.com/DedBash to support me.
+If you want to support me so that I can do something like this more, you are welcome to do so on https://www.buymeacoffee.com/DedBash. By the way, the whole project currently consumes 1.3TB of storage.
