@@ -8,7 +8,7 @@ This is an APT mirror for Debian 9 - 12 (`stretch`, `buster`, `bullseye` and `bo
 - `armfh` (ARM 32 Bit) Debian 9-12
 - `armel` (ARM 32 Bit) Debian 9-12 
 
-(I myself do not know the exact difference between `armfh` and `armel` but I know that <a href="http://www.raspbian.org/">raspbian</a> mostly runs on armfh or arm64)
+(I myself do not know the exact difference between `armfh` and `armel` but I know that <a href="http://www.raspbian.org/">raspbian</a> mostly runs on `armfh` or `arm64`)
 ## URL
 | IPv | Protocol | URL |
 |--|--|--|
