@@ -23,3 +23,5 @@ This is an APT mirror for Debian 9 - 12 (`stretch`, `buster`, `bullseye` and `bo
 Your sources.list should look like this after editing (some versions don't use deb-src (then just disregard and edit the exestirenenden))<br>
 <img src="https://github.com/Nixphere/APt-Mirror/raw/main/Screenshot%202023-02-24%20014427.png">
 
+## Note
+Currently the whole mirror draws 1.3TB of storage so I would like you to donate something to https://www.buymeacoffee.com/DedBash to support me.
